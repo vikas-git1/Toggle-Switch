@@ -1,7 +1,11 @@
 import "./App.css";
-
+import Toggle from "./components/Toggle";
 function App() {
-  return <></>;
+  return (
+    <>
+      <Toggle />
+    </>
+  );
 }
 
 export default App;
